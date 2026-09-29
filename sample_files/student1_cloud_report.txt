@@ -1,0 +1,3 @@
+Cloud computing provides on-demand access to compute, storage, databases, networking and application services. A cloud-native architecture can use a managed database for structured metadata and object storage for large assignment documents. Authentication establishes identity while role based authorization determines whether a student or teacher can access a resource.
+
+Scalability can be achieved with stateless application servers, load balancing, autoscaling, caching and managed services. Availability improves through redundant infrastructure and health monitoring. API gateways can centralize routing, authentication and rate limiting. Secure deployment requires HTTPS, secret management, least privilege and validation of uploaded files.

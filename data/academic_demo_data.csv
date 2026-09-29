@@ -1,0 +1,6 @@
+student_id,student_name,course,assignment,submission_score,late_days
+S001,Rahul Das,Cloud Computing,Cloud Architecture Intelligence Report,44,0
+S002,Priya Nair,Cloud Computing,Cloud Architecture Intelligence Report,41,0
+S003,Amit Roy,Cloud Computing,Cloud Architecture Intelligence Report,36,1
+S004,Neha Singh,Cloud Computing,Cloud Architecture Intelligence Report,47,0
+S005,Arjun Mehta,Cloud Computing,Cloud Architecture Intelligence Report,39,0
